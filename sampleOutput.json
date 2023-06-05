@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "David Nield",
+            "title": "How to Switch to Using Passkeys With Your Google Accounts",
+            "description": "The future is passkeys, not passwords: Google accounts are the latest to make the switch, following similar moves by Apple and Microsoft over the last couple of years (with other smaller names also making the switch). It means more convenience and more securi…",
+            "url": "https://gizmodo.com/passkeys-google-how-to-passwords-iphone-android-mac-win-1850436313",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fa439fbe9aacbf36a5d588c97fce047d.jpg",
+            "publishedAt": "2023-05-20T14:00:00Z",
+            "content": "The future is passkeys, not passwords: Google accounts are the latest to make the switch, following similar moves by Apple and Microsoft over the last couple of years (with other smaller names also m… [+4824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+            "title": "The Pixel Tablet isn't going to fix what's wrong with Android tablets on its own",
+            "description": "Hardware is only half the problem. Not even the important half.",
+            "url": "https://www.androidcentral.com/tablets/the-pixel-tablet-isnt-going-to-fix-whats-wrong-with-android-tablets-on-its-own",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HUQDqvwpkTbGmKFm6Ld3hg-1200-80.jpg",
+            "publishedAt": "2023-05-20T15:00:00Z",
+            "content": "I'm an Android enthusiast. I was one of the few people who waited in line for the T-Mobile G1 and have used countless Android phones since. I have every Nexus device. including the Nexus Q, in its or… [+6399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Tom Hunt",
+            "title": "How to turn old, floury apples into a glorious spiced fruit butter – recipe | Waste not",
+            "description": "How to transform a batch of old apples into a tasty apple-pie-spiced spreadWhen I was growing up as a vegetarian teenager, I discovered my love of whole foods from healthfood shops which, back in the 1970s usually had a wonderfully complex aroma of spices, wh…",
+            "url": "https://www.theguardian.com/food/2023/may/20/how-to-turn-old-floury-apples-into-a-glorious-spiced-fruit-butter-recipe-zero-waste-cooking",
+            "urlToImage": "https://i.guim.co.uk/img/media/8d6669a5c21ad5697ccc1a9c11822277835f9741/196_2_3909_2345/master/3909.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bfd348b324413cd33a2f520b1c8a9c3",
+            "publishedAt": "2023-05-20T05:00:49Z",
+            "content": "When I was growing up as a vegetarian teenager, I discovered my love of whole foods from healthfood shops which, back in the 1970s usually had a wonderfully complex aroma of spices, whole grains, nut… [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Toni Husbands",
+            "title": "Best High-Yield Savings Accounts - CNET",
+            "description": "Make the most of the high rates while they last.",
+            "url": "https://www.cnet.com/personal-finance/banking/savings/best-high-yield-savings-accounts/",
+            "urlToImage": "https://www.cnet.com/personal-finance/assets/uploads/resize/d8b9b5dcd50d74f83c294044935adbad0cadfc8f/m1/2023/03/gettyimages-1222778391.jpg?auto=webp",
+            "publishedAt": "2023-05-20T13:39:45Z",
+            "content": "Theres still plenty of opportunities to take advantage of great rates on a high-yield savings account. These accounts offer annual percentage yields that have remained consistent with competitive hig… [+3547 chars]"
+        }
+      
+    ]
+}
